@@ -1,0 +1,27 @@
+.text-center{
+    text-align:center;
+}
+.m_x{
+    margin:auto;
+}
+.flex{
+display: flex;
+}
+.flex_col{
+flex-direction: column;
+gap:5px;
+}
+.button{
+    width:50px;
+    height: 70px;
+    cursor:pointer;
+  padding: 8px 20px;
+  margin: 1px 3px;
+  border:1px solid black;
+  border-radius: 21px;
+  background-color: darkorange;
+  color: white;
+}
+.items{
+    align-items: center;
+}
